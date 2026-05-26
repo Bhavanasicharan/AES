@@ -1,6 +1,6 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
-## NAME : KARTHICK V
-## REG NO : 212223040086
+## NAME : CHARAN REDDY
+## REG NO : 212224240026
 ## Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
